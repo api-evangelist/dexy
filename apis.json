@@ -1,0 +1,54 @@
+{
+    "name": "Dexy",
+    "description": "<p><span>Dexy helps your code to speak for itself. Show off your code with beautiful syntax highlighting. Write examples and Dexy will run them, inserting the output into any document you wish. Everything is based on live code, so updating is easy, syntax errors blow up on you, not your users, and typos are a thing of the past. With Dexy's smart caching, your code is only executed when it needs updating, saving you time while keeping your documents robust.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/serviceproviders\/Dexy-Logo.png",
+    "tags": [
+        "api service provider",
+        "documentation",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dexy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dexy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/serviceproviders\/Dexy-Logo.png",
+            "humanURL": "http:\/\/dexy.it\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dexy-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dexy-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.dexy.it\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.dexy.it\/feed"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dexy"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dexy.it\/"
+        }
+    ]
+}
